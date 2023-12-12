@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Boilerplate Projet Web2 2D
 
-First, run the development server:
+## 🌐 Introduction
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Bienvenue sur notre boilerplate pour projet Web2 ! Ce modèle est conçu pour offrir un point de départ robuste et efficace pour les applications Web, en intégrant des technologies modernes et les meilleures pratiques.
+
+## 🛠 Technologies
+
+- **Next.js 14** : Utilisation de la dernière version de Next.js pour des performances optimales et une meilleure expérience de développement.
+- **Material UI** : Intégration de Material UI suivant les principes du Material Design.
+- **React Hook Form** : Gestion optimisée des formulaires avec React Hook Form, pour une meilleure performance et une plus grande facilité de développement.
+- **Framer Motion** : Ajout de Framer Motion pour des animations fluides et modernes.
+- **Husky** : Utilisation de Husky pour la gestion des hooks Git pre-commit, assurant la qualité du code avant chaque commit.
+- **ESLint & TypeScript** : Intégration d'ESLint et TypeScript pour un code propre, robuste et bien typé.
+
+## 🚀 Démarrage Rapide
+
+1. Clonez le repo, installez les dépendances et démarrez le serveur de dev:
+
+```
+yarn && yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📚 Documentation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Pour plus d'informations sur l'utilisation des différentes technologies intégrées, consultez les documentations officielles :
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Material UI Documentation](https://mui.com/)
+- [React Hook Form Documentation](https://react-hook-form.com/)
+- [Framer Motion Documentation](https://www.framer.com/motion/)
+- [Husky Documentation](https://typicode.github.io/husky/#/)
+- [ESLint Documentation](https://eslint.org/)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
